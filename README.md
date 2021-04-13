@@ -4,12 +4,13 @@
   <table border="none">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mashwishi&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=tokyonight&show_icons=true" />
+      <a href="https://ko-fi.com/mashwishi"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&layout=compact&hide=php" />
-        <a href="https://ko-fi.com/mashwishi"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=tokyonight&show_icons=true" />
       </td>
+    </tr>
 </p>
 
 
