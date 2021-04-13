@@ -20,10 +20,9 @@
 - [PruneMusic](https://github.com/mashwishi/PruneMusic)
 <!-- BLOG-POST-LIST:END -->
 
--------
 
 <h2 align="center">📊 Weekly development breakdown</h2>
-<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5.png" />
+<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5" />
 
 -------
 
