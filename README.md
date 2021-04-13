@@ -4,10 +4,23 @@
   <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </p>
 
-- 🔭 I’m currently working on **QR Contact Tracing System**
-- 🌱 I’m currently learning **C++ and Algorithms**
-- 💬 Ask me about **Java, PHP, CSS and C#**
-- 📫 How to reach me: [@Mashwishi](https://twitter.com/Mashwishi) on Twitter
+<p align="center">
+<table>
+  <tr>
+    <td>
+      - 🔭 I’m currently working on **QR Contact Tracing System<br/>
+      - 🌱 I’m currently learning **C++ and Algorithms<br/>
+      - 💬 Ask me about **Java, PHP, CSS and C#<br/>
+      - 📫 How to reach me: [@Mashwishi](https://twitter.com/Mashwishi) on Twitter<br/>
+   </td>
+    <td>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
+   </td>
+  </tr>
+</table>
+</p>
+
+
 
 **📝 Current Projects**
 
@@ -20,7 +33,7 @@
  <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=radical&show_icons=true" />
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
+
 </p>
 
 
