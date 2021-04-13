@@ -27,8 +27,8 @@
 
 <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=tokyonight&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=tokyonight&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=radical&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&show_icons=true" />
 </p>
 
 
