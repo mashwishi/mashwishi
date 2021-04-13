@@ -5,7 +5,8 @@
   <a href="https://ko-fi.com/mashwishi"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </p>
 
-
+<p align="center">
+ 
 - 🔭 I’m currently working on **QR Contact Tracing System**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - 💬 Ask me about **Java, PHP, CSS and C#**
@@ -28,7 +29,6 @@
 
 -------
 
-<p align="center">
   <table border="none">
     <tr>
       <td>
