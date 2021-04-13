@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <td>
       - 🔭 I’m currently working on **QR Contact Tracing System
@@ -21,6 +21,7 @@
        - <a href="https://github.com/mashwishi/PruneMusic">PruneMusic</a> 
       <br/><br/>
       <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+      <br/><br/>
    </td>
     <td>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
