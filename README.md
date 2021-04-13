@@ -20,7 +20,7 @@
       <br/>
        - <a href="https://github.com/mashwishi/PruneMusic">PruneMusic</a> 
       <br/><br/>
-      <img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner 2"/>
+      <a href="https://discord.gg/TJ2tnHCcV3"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner 2"/></a>
       <br/>
    </td>
     <td>
