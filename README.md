@@ -1,8 +1,7 @@
 <h2 align="center">👋 Hello! I'm Mashwishi.</h2>
  <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
 <p align="center">
-
-  <a href="https://ko-fi.com/mashwishi"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+  <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </p>
 
 
@@ -32,13 +31,13 @@
 📊 **Mashwishi's Github Statistics**
 
 <p align="center">
-  <table border="none">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=tokyonight&show_icons=true" />
+  <table align="center">
+    <tr align="center">
+      <td align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=tokyonight&show_icons=true" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=tokyonight&show_icons=true" />
+      <td align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=tokyonight&show_icons=true" />
       </td>
     </tr>
 </p>
