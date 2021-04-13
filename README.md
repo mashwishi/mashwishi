@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
   <br />
-  <table border="0">
+  <table border="none">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Mashwishi&show_icons=true" />
