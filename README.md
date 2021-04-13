@@ -4,21 +4,19 @@
   <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </p>
 
-
-
 - 🔭 I’m currently working on **QR Contact Tracing System**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - 💬 Ask me about **Java, PHP, CSS and C#**
 - 📫 How to reach me: [@Mashwishi](https://twitter.com/Mashwishi) on Twitter
 
--------
-
 **📝 Current Projects**
 
-<!-- BLOG-POST-LIST:START -->
 - [PruneBot](https://github.com/mashwishi/PruneBot)
 - [PruneMusic](https://github.com/mashwishi/PruneMusic)
-<!-- BLOG-POST-LIST:END -->
+
+
+-------
+
 
 
 <h2 align="center">📊 Weekly development breakdown 📊 </h2>
@@ -26,7 +24,6 @@
  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5.png" />
 </p>
 
--------
 
 <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>
 <p align="center">
