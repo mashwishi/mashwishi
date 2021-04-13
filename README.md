@@ -22,6 +22,8 @@
       <br/><br/>
       <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
       <br/><br/>
+      <img src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner 2"/>
+      <br/><br/>
    </td>
     <td>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
