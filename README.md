@@ -19,7 +19,7 @@
        - <a href="https://github.com/mashwishi/PruneBot">PruneBot</a>
       <br/>
        - <a href="https://github.com/mashwishi/PruneMusic">PruneMusic</a> 
-      <br/><br/>
+      <br/>    <img align="center" width="20%" src="https://i.imgur.com/pUHDLQy.png" /><br/>
       <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
       <br/><br/>
    </td>
