@@ -25,9 +25,9 @@
    </td>
     <td>
     <p align="center">
+      <br/>
       <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
     </p>
-      <br/><br/>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
       <br/><br/>
    </td>
