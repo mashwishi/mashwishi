@@ -24,7 +24,6 @@
       <br/><br/>
    </td>
     <td>
-     <img align="center" width="50%" src="https://i.imgur.com/pUHDLQy.png" /><br/>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
    </td>
   </tr>
