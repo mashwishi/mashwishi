@@ -5,7 +5,7 @@
 </p>
 
 
- 
+
 - 🔭 I’m currently working on **QR Contact Tracing System**
 - 🌱 I’m currently learning **C++ and Algorithms**
 - 💬 Ask me about **Java, PHP, CSS and C#**
@@ -22,11 +22,8 @@
 
 -------
 
-📊 **Weekly development breakdown**
-
-<p align="center">
+<h2 align="center">📊 Weekly development breakdown</h2>
 <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5.png" />
-</p>
 
 -------
 
