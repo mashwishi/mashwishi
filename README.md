@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Mashwishi.</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
  <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
 <p align="center">
   <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
@@ -22,7 +22,9 @@
 
 
 <h2 align="center">📊 Weekly development breakdown 📊 </h2>
-<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5" />
+<p align="center">
+ <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5.png" />
+</p>
 
 -------
 
