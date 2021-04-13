@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td>
       - 🔭 I’m currently working on <strong>QR Contact Tracing System</strong>
