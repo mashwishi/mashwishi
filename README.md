@@ -25,6 +25,7 @@
 📊 **Weekly development breakdown**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5)
+<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5" />
 
 -------
 
