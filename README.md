@@ -6,15 +6,15 @@
 <table align="center">
   <tr>
     <td>
-      - 🔭 I’m currently working on **QR Contact Tracing System
+      - 🔭 I’m currently working on </strong>QR Contact Tracing System</strong>
       <br/>
-      - 🌱 I’m currently learning **C++ and Algorithms
+      - 🌱 I’m currently learning <strong>C++ and Algorithms</strong>
       <br/>
-      - 💬 Ask me about **Java, PHP, CSS and C#
+      - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong>
       <br/>
       - 📫 How to reach me: <a href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter
       <br/><br/>
-      <strong>📝 Current Projects</strong>
+      <strong>📝 Current Projects:</strong>
       <br/>
        - <a href="https://github.com/mashwishi/PruneBot">PruneBot</a>
       <br/>
