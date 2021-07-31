@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>
-      - 🔭 I’m currently working on <strong>PruneBot</strong>
+      - 🔭 I’m currently working on <strong>MenuGo Philippines</strong>
       <br/>
       - 🌱 I’m currently learning <strong>C++ and Algorithms</strong>
       <br/>
