@@ -10,7 +10,7 @@
          <br/><br/>
             <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://menugoph.com/">MenuGo Philippines</a></strong> -
+         - 🔭 Former developer of <strong><a href="https://menugoph.com/">MenuGo Philippines</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>C++ and Algorithms</strong> -
          <br/>
