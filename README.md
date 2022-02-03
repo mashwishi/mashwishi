@@ -1,11 +1,13 @@
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
+<a href="https://opensea.io/collection/prunity-planets">
 <img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
+</a>
 <p align="center">
 <table align="center">
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
+         <img align="center" src="https://i.imgur.com/QYfcK6y.png" width="50%"/></a><br/>
          <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
             <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
