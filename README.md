@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
-<img src="https://i.imgur.com/hWqHwc2.png" width="100%"/>
+<img src="https://i.imgur.com/R2VJEv5.png" width="100%"/>
 <p align="center">
 <table align="center">
    <tr>
