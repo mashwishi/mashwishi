@@ -1,24 +1,28 @@
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
-<a href="https://opensea.io/collection/prunity-planets">
-<img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
-</a>
 <p align="center">
 <table align="center">
    <tr>
       <td>
          <p align="center">    
          <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>
-         <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+         <a target="_blank" href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
             <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+<br/><br/>
+<a target="_blank"  href="https://discord.gg/Ksb37nngRP">
+<img align="center" src="https://discordapp.com/api/guilds/973395326184615947/widget.png?style=banner2" alt="Discord Banner"/></a>
          <br/><br/>
-         - 🔭 Former developer of <strong><a href="https://menugoph.com/">MenuGo Philippines</a></strong> -
+         - 🤖 Creator of of <strong><a target="_blank" href="https://discord.com/channels/779997243159216149/780002412026265602/974062119484010526">Prunity Bot</a></strong> - 
          <br/>
-         - 🌱 I’m currently learning <strong>C++ and Algorithms</strong> -
+         - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.ml/">CLIQUE</a></strong> - 
+           <br/>
+         - 🚚 Former developer of <strong><a target="_blank" href="https://menugoph.com/">MenuGo Philippines</a></strong> -
+         <br/>
+         - 📚 I’m currently learning <strong>C++ and Algorithms</strong> -
          <br/>
          - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong> -
          <br/>
-         - 📫 How to reach me: <a href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter -
+         - 📫 How to reach me: <a target="_blank" href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter -
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />
@@ -37,4 +41,10 @@
    </tr>
 </table>
 </p>
+<a target="_blank" href="https://cliqueapp.ml/">
+<img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
+</a>
+<a target="_blank" href="https://opensea.io/collection/prunity-planets">
+<img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
+</a>
 
