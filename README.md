@@ -16,6 +16,8 @@
          <br/>
          - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.ml/">CLIQUE</a></strong> - 
            <br/>
+                - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
+           <br/>
          - 🚚 Former developer of <strong><a target="_blank" href="https://menugoph.com/">MenuGo Philippines</a></strong> -
          <br/>
          - 📚 I’m currently learning <strong>C++ and Algorithms</strong> -
