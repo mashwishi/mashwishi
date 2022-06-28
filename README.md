@@ -9,12 +9,12 @@
          <br/><br/>
             <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
 <br/><br/>
-<a target="_blank"  href="https://discord.gg/Ksb37nngRP">
-<img align="center" src="https://discordapp.com/api/guilds/973395326184615947/widget.png?style=banner2" alt="Discord Banner"/></a>
+<a target="_blank" href="">
+</a>
          <br/><br/>
          - 🤖 Creator of of <strong><a target="_blank" href="https://discord.com/channels/779997243159216149/780002412026265602/974062119484010526">Prunity Bot</a></strong> - 
          <br/>
-         - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.ml/">CLIQUE</a></strong> - 
+         - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.me/">CLIQUE</a></strong> - 
            <br/>
                 - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
            <br/>
