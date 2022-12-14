@@ -14,6 +14,8 @@
          <br/><br/>
          - 🤖 Creator of of <strong><a target="_blank" href="https://discord.com/channels/779997243159216149/780002412026265602/974062119484010526">Prunity Bot</a></strong> - 
          <br/>
+         - ☕ Founder and developer of <strong><a target="_blank" href="https://kohee.app/">Kohee</a></strong> - 
+         <br/>
          - 🌏 Founder and developer of <strong><a target="_blank" href="https://cliqueapp.me/">CLIQUE</a></strong> - 
            <br/>
                 - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
@@ -43,6 +45,9 @@
    </tr>
 </table>
 </p>
+<a target="_blank" href="https://kohee.app/">
+<img src="https://i.imgur.com/cKh45zn.jpg" width="100%"/>
+</a>
 <a target="_blank" href="https://cliqueapp.me/">
 <img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
 </a>
