@@ -8,6 +8,8 @@
          <a target="_blank" href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
             <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+<br/>
+            <a href="https://discord.gg/FcEdqghY3X"><img align="center" src="https://discordapp.com/api/guilds/1054705084950384671/widget.png?style=banner2" alt="Discord Banner2"/></a>
 <br/><br/>
 <a target="_blank" href="">
 </a>
