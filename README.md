@@ -50,6 +50,3 @@
 <a target="_blank" href="https://cliqueapp.me/">
 <img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
 </a>
-<a target="_blank" href="https://opensea.io/collection/prunity-planets">
-<img src="https://i.imgur.com/5QTyrZ9.png" width="100%"/>
-</a>
