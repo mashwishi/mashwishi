@@ -32,11 +32,11 @@
             <br/>
             <a target="_blank" href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>  
             <br/><br/> <br/>  
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />      
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />      
             <br/><br/>  
             <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mashwishi&theme=radical&hide_border=true" />   
             <br/><br/>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mashwishi&theme=radical&show_icons=true&hide_border=true" />
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mashwishi&theme=radical&show_icons=true&hide_border=true" />
             <br/><br/>
             <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>
             <br/><br/>
