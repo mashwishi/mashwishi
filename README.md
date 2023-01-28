@@ -45,7 +45,7 @@
 </table>
 </p>
 <a target="_blank" href="https://kohee.app/">
-<img src="https://i.imgur.com/tw6hBDm.png" width="100%"/>
+<img src="https://i.imgur.com/ayVUK3q.jpg" width="100%"/>
 </a>
 <a target="_blank" href="https://cliqueapp.me/">
 <img src="https://i.imgur.com/xmopYAe.png" width="100%"/>
