@@ -29,7 +29,9 @@
         </td>
         <td align="center">
             <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>
-            <br/>
+              Visitor count<br>
+                <img src="https://profile-counter.glitch.me/mashwishi/count.svg" />
+            <br/><br>
             <a target="_blank" href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>  
             <br/><br/> <br/>  
             <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />      
