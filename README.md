@@ -15,7 +15,7 @@
                 <br/>
                 - 🚚 Former developer of <strong><a target="_blank" href="https://menugoph.com/">MenuGo Philippines</a></strong> -
                 <br/>
-                - 📚 I’m currently learning <strong>C++ and Algorithms</strong> -
+                - 📚 I’m currently learning AI/Machine Learning, <strong>C++ and Algorithms</strong> -
                 <br/>
                 - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong> -
                 <br/>
