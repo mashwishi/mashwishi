@@ -46,6 +46,9 @@
     </tr>
 </table>
 </p>
+<a target="_blank" href="https://mechi.cloud/">
+<img src="https://i.imgur.com/f7MNLfq.png" width="100%"/>
+</a>
 <a target="_blank" href="https://kohee.app/">
 <img src="https://i.imgur.com/ayVUK3q.jpg" width="100%"/>
 </a>
