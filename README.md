@@ -1,5 +1,4 @@
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Mathew!</h2>
-
 <p align="center">
 <span align="center">
     <a target="_blank" href="https://">
@@ -27,6 +26,7 @@
         <img src="https://i.imgur.com/2AQGIF8.png" width="5%"/>
     </a>
 </span>
+
 <table align="center">
     <tr>
         <td>
@@ -42,8 +42,11 @@
                 <br/><br/>
                 <a href="https://discord.gg/FcEdqghY3X"><img align="center" src="https://discordapp.com/api/guilds/1054705084950384671/widget.png?style=banner2" alt="Discord Banner2"/></a>   
                 <br/><br/>  
-                <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />      
-                <br/><br/>        
+                <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>     
+                <br/><br/> 
+                <span align="center">
+                        <img src="https://github-profile-trophy.vercel.app/?username=mashwishi" width="80%"/>
+                </span>
             </p>
         </td>
         <td align="center">
@@ -57,9 +60,11 @@
             <br/><br/>
             <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mashwishi&theme=radical&show_icons=true&hide_border=true" />
             <br/><br/>
-            <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>
+                            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" /> 
             <br/><br/>
         </td>
     </tr>
 </table>
 </p>
+
+
