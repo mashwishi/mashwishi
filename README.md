@@ -45,7 +45,7 @@
                 <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>     
                 <br/><br/> 
                 <span align="center">
-                        <img src="https://github-profile-trophy.vercel.app/?username=mashwishi" width="80%"/>
+                        <img src="https://github-profile-trophy.vercel.app/?username=mashwishi" width="90%"/>
                 </span>
             </p>
         </td>
