@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Mathew!</h2>
+<h2 align="center">PROJECT SHOWCASE</h2>
 <p align="center">
 <span align="center">
     <a target="_blank" href="https://">
@@ -30,7 +30,7 @@
 <table align="center">
     <tr>
         <td>
-                        <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>
+                        <h2 align="center">👋 Hello, Welcome to my Github!</h2>
             <p align="center">   
                <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>   
                 - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
