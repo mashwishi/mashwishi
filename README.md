@@ -25,7 +25,8 @@
     <a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">
         <img src="https://i.imgur.com/2AQGIF8.png" width="5%"/>
     </a>
-</span>
+</span><br/>
+<span align="center"><i>These are my personal and client projects, as well as projects to which I have contributed.</i></span>
 
 <table align="center">
     <tr>
