@@ -31,14 +31,17 @@
     <tr>
         <td>
             <p align="center">   
-               <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>   
+<!--                <img align="center" src="https://i.imgur.com/3tDhosL.gif" width="50%"/></a><br/>   
                 - 📝 Contributor at <strong><a target="_blank" href="https://foodomaa.com/">Foodomaa</a></strong> and  <strong><a target="_blank" href="https://codecanyon.net/item/colibrism-the-ultimate-php-modern-social-media-sharing-platform/26612898">ColibriSM</a></strong> - 
                 <br/>
                 - 🚚 Former developer of <strong><a target="_blank" href="https://menugoph.com/">MenuGo Philippines</a></strong> -
                 <br/>
                 - 📚 Learning <strong>Blockchain, AI, C++ and Algorithms</strong> -
                 <br/>
-                - 📫 How to reach me: <a target="_blank" href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter -
+                - 📫 How to reach me: <a target="_blank" href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter - -->
+                <a href="https://cloud.appwrite.io/card/64ac1e1f0a0302c9c1be">
+                	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64ac1e1f0a0302c9c1be" alt="Appwrite Cloud Card" />
+                </a>
                 <br/><br/>
                 <a href="https://discord.gg/FcEdqghY3X"><img align="center" src="https://discordapp.com/api/guilds/1054705084950384671/widget.png?style=banner2" alt="Discord Banner2"/></a>   
                 <br/><br/>  
