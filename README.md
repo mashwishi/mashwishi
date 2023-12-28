@@ -1,3 +1,6 @@
+
+
+
 <h2 align="center">PROJECT SHOWCASE</h2>
 <p align="center">
 <span align="center">
@@ -27,7 +30,9 @@
     </a>
 </span><br/>
 <span align="center"><i>These are my personal and client projects, as well as projects to which I have contributed.</i></span>
-
+    <center>
+   <img src="https://i.imgur.com/vxQT0vh.png"/>
+   </center>
 <table align="center">
     <tr>
         <td>
