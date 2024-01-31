@@ -4,10 +4,13 @@
 <h2 align="center">PROJECT SHOWCASE</h2>
 <p align="center">
 <span align="center">
-    <a target="_blank" href="https://">
+    <a target="_blank" href="https://pengui.me">
+        <img src="https://i.imgur.com/mznhKHj.png" width="5%"/>
+    </a>
+    <a target="_blank" href="https://cliqueapp.me">
         <img src="https://i.imgur.com/i3CJE88.png" width="5%"/>
     </a>
-    <a target="_blank" href="https://kohee.ap">
+    <a target="_blank" href="https://kohee.app">
         <img src="https://i.imgur.com/oGYoH70.png" width="5%"/>
     </a>
     <a target="_blank" href="https://meeble.io">
