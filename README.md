@@ -34,7 +34,7 @@
 </span><br/>
 <span align="center"><i>These are my personal and client projects, as well as projects to which I have contributed.</i></span>
     <center>
-   <img src="https://i.imgur.com/vxQT0vh.png"/>
+   <img src="https://i.imgur.com/Gzy5czE.png"/>
    </center>
 <table align="center">
     <tr>
